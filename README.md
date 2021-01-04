@@ -31,6 +31,5 @@
     
 
 
-// Solves the VDP Oscillator using the Euler-Maruyama method,
-// and record the updates the number of occurances where the soultion is within specified bounds
-// Takes as arguements alpha, sigma, # of time steps M, the final time run time TFin, and record P
+Solves the VDP Oscillator using the Euler-Maruyama method, and record the number of occurances where the soultion is within specified bounds. 
+Takes as arguements alpha, sigma, # of time steps M, the final time run time TFin, and record P
